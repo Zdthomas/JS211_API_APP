@@ -46,3 +46,5 @@ const displayPokemon = () => {
 
 
 }
+
+// Getting a tutor to help with this like the other API assignment.
